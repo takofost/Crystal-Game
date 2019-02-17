@@ -1,0 +1,32 @@
+body {
+    background-image: url("http://paperlief.com/images/pixel-landscape-background-wallpaper-1.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#title {
+text-align: center;
+font-size: 40px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#instructions{
+    text-align: center;
+}
+
+#buttons{
+    text-align: center;
+    padding: 25px;
+}
+
+#w{
+    text-align: center;
+    font-size: 30px;  
+}
+#l{
+    text-align: center;
+    font-size: 30px;  
+}
+#t{
+    text-align: center;
+    font-size: 30px;  
+}
